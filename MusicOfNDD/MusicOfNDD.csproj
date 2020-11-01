@@ -104,6 +104,7 @@
     <None Include="packages.config" />
     <Content Include="SoundHandler.ashx" />
     <None Include="Properties\PublishProfiles\MusicOfNDD - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\mymusicndd - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
